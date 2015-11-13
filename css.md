@@ -11,7 +11,7 @@ Get the lowdown on the key pieces of Bootstrap's infrastructure, including our a
 
 HTML5 doctype
 Bootstrap makes use of certain HTML elements and CSS properties that require the use of the HTML5 doctype. Include it at the beginning of all your projects.
-[navbar documenation <!DOCTYPE html>
+[navbar documenation] (<!DOCTYPE html>
 <html lang="en">
   ...
-</html>]
+</html>)
