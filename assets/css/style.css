@@ -3,3 +3,11 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+
+.col-md-4 {
+  padding-top: 20px;
+}
+
+.col-md-8 {
+  padding-top: 20px; 
+}
