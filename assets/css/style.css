@@ -4,18 +4,15 @@
   height: 1080px;
 }
 
-.col-md-8 {
+.row {
   padding-top: 20px;
   background-color: #5DBA76;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
 }
 
-.col-md-4 {
-  background-color: #5DBA76;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
-  padding-bottom: 180px;
+.col-md-2{
+  background-color: #489C6C;
 }
 
  .col-md-7 {
