@@ -16,10 +16,10 @@
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
 }
- #row-1 {
+ .col-md-7 {
    color: #70BA5D;
    font-family: font-family: 'League Script', cursive;
-   font size: 18px; 
+   font size: 18px;
  }
 
 .btn {
