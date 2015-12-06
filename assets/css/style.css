@@ -41,3 +41,7 @@
 .btn {
   padding-top: 10px;
 }
+
+#tomatoes #wrap {
+  display: inline;
+}
