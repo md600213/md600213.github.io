@@ -6,8 +6,11 @@
 
 .col-md-8 {
   padding-top: 20px;
+  background-color: #009966;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 24px; 
 }
 
 .btn {
-  padding-top: 10px; 
+  padding-top: 10px;
 }
