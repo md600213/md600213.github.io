@@ -4,21 +4,16 @@
   height: 1080px;
 }
 
-.col-md-8 {
+.row {
   padding-top: 20px;
   background-color: #5DBA76;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
 }
 
-.col-md-4 {
-  background-color: #489C6C;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 14px;
-}
  .col-md-7 {
    color: #70BA5D;
-   font-family: 'League Script', cursive, sans-serif; 
+   font-family: 'League Script', cursive, sans-serif;
    font size: 18px;
  }
 
