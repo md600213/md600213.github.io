@@ -12,10 +12,15 @@
 }
 
 .col-md-4 {
-  background-color: #489C6C
+  background-color: #489C6C;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
+  font-size: 14px;
 }
+ #row-1 {
+   color: #70BA5D;
+   font-family: font-family: 'League Script', cursive;
+   font size: 18px; 
+ }
 
 .btn {
   padding-top: 10px;
