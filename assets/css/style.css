@@ -18,8 +18,14 @@
 }
  .col-md-7 {
    color: #70BA5D;
-   font-family: font-family: 'League Script', cursive;
+   font-family: 'League Script', cursive;
    font size: 18px;
+ }
+
+ .col-md-5 {
+   color: #70BA5D;
+   font-family: 'League Script', cursive;
+   font size: 24px;
  }
 
 .btn {
