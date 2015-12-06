@@ -12,13 +12,15 @@
 }
 
  .col-md-7 {
-   color: #489C6C;
+   background-color: #5DBA76;
+   color: #39875A;
    font-family: 'League Script', cursive, sans-serif;
    font size: 18px;
  }
 
  .col-md-5 {
-   color: #489C6C;
+   background-color: #5DBA76; 
+   color: #39875A;
    font-family: 'League Script', cursive, sans-serif;
    font size: 24px;
  }
