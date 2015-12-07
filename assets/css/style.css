@@ -5,10 +5,10 @@
 }
 
 .col-md-2{
-  background-color: #489C6C;
+  background-color: #E89133;
 }
 .col-md-12{
-  background-color: #D6CD6B;
+  background-color: #E0D44C;
   font-family: 'Open Sans Condensed', sans-serif;
   font size: 14px;
 }
@@ -25,7 +25,7 @@
 
 
  .col-md-7 {
-   background-color: #5DBA76;
+   background-color: #A8D461;
    color: #256641;
    font-family: 'League Script', cursive, sans-serif;
    font size: 18px;
@@ -33,14 +33,14 @@
  }
 
  .col-md-5 {
-   background-color: #5DBA76;
+   background-color: #A8D461;
    color: #256641;
    font-family: 'League Script', cursive, sans-serif;
    font size: 24px;
  }
 
 .col-md-6{
-  background-color: #D6CD6B;
+  background-color: #E0D44C;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
 }
