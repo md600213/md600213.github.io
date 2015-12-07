@@ -14,7 +14,8 @@
 #tab_row{
   background-color: #E89133;
 }
-.col-md-12{
+
+.col-md-12 .col-md-8 .col-md-4 #member_row{
   background-color: #E0D44C;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 16px;
