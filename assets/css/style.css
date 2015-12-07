@@ -7,8 +7,19 @@
 .col-md-12{
   background-color: #5DBA76;
   font-family: 'Open Sans Condensed', sans-serif;
-  font size: 14px; 
+  font size: 14px;
 }
+
+.col-md-4 .col-md-offset-4{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.col-md-8{
+  padding-bottom: 20px;
+  padding-top: 20px; 
+}
+
 
  .col-md-7 {
    background-color: #5DBA76;
