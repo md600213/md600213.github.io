@@ -7,6 +7,8 @@
 .col-md-2{
   background-color: #E89133;
   padding: 5px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
 
 }
 #tab_row{
@@ -15,7 +17,7 @@
 .col-md-12{
   background-color: #E0D44C;
   font-family: 'Open Sans Condensed', sans-serif;
-  font size: 14px;
+  font-size: 16px;
 }
 
 .col-md-4 .col-md-offset-4{
@@ -41,7 +43,7 @@
    background-color: #A8D461;
    color: #256641;
    font-family: 'League Script', cursive, sans-serif;
-   font size: 40px;
+   font-size: 40px;
  }
 
 .col-md-6{
