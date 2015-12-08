@@ -58,10 +58,14 @@
   padding-top: 10px;
 }
 
-#tomatoes #wrap {
+#tomatoes, #wrap {
   display: block;
 }
 
 #button_column{
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
+}
+
+#user_heading{
+  font-size: 20px;
 }
